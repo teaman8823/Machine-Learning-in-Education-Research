@@ -1,4 +1,4 @@
-# Machine Learning in Education Research
+# Machine-Learning-in-Education-Research Final report
 學生生活習慣與學習成績的關聯分析
 
 > 利用 Kaggle「Student Habits vs Academic Performance」資料集，從資料探索、監督式學習到分群分析，研究學生生活習慣與期末成績之間的關聯性。
