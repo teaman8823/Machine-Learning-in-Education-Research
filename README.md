@@ -23,9 +23,12 @@
 ## 2. 專案結構
 
 專案主要檔案說明如下：
+
+```text
 .
 ├── EDA.ipynb                  # 資料探索 (EDA)：統計量、分布圖、盒鬚圖、相關係數
 ├── supervised learning.ipynb  # 監督式學習：多元線性迴歸預測 exam_score
-├── unsupervised learning.ipynb # 非監督式學習：標準化、K-means、PCA 視覺化與群體分析
-├── White and Peach Cute Hand Drawn Playful Group Project Presentation.pdf # 簡報檔，整理研究背景、流程與結果
+├── unsupervised learning.ipynb# 非監督式學習：標準化、K-means、PCA 視覺化與群體分析
+├── White and Peach Cute Hand Drawn Playful Group Project Presentation.pdf
+│                               # 簡報檔，整理研究背景、流程與結果
 └──
