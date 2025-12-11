@@ -28,4 +28,4 @@
 ├── supervised learning.ipynb  # 監督式學習：多元線性迴歸預測 exam_score
 ├── unsupervised learning.ipynb # 非監督式學習：標準化、K-means、PCA 視覺化與群體分析
 ├── White and Peach Cute Hand Drawn Playful Group Project Presentation.pdf # 簡報檔，整理研究背景、流程與結果
-
+└──
